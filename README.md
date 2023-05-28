@@ -1,6 +1,6 @@
 # TPB-Search
 Search TPB via CLI
 
-## Featuers
+## Features
 - Search TPB
 - Find Popular Movies on IMDB
